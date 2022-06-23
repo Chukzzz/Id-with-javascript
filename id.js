@@ -1,0 +1,1 @@
+alert('Name: Chukwu Favour.\nHeight: 5ft 10in.\nCountry: Nigeria.')
